@@ -1,4 +1,0 @@
-#Sun Oct 18 19:50:52 EDT 2015
-org.eclipse.jdt.launching.PREF_DEFAULT_ENVIRONMENTS_XML=
-eclipse.preferences.version=1
-org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1444506342987" defaultVMConnector\="">\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\n<vm id\="1444506342987" name\="jdk1.8.0" path\="/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home"/>\n</vmType>\n<vmType id\="org.eclipse.jdt.internal.launching.macosx.MacOSXType">\n<vm id\="Contents" name\="Java SE 6 (MacOS X Default)" path\="/Library/Java/JavaVirtualMachines/1.6.0_37-b06-434.jdk/Contents/Home"/>\n</vmType>\n</vmSettings>\n
